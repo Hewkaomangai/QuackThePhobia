@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Key1
+  - Door1
+  - Door2
+  - Key2
+  - F2KEY
+  - BoxDamage
+  - Heal
+  - Stun
+  - Stun2
+  - Door3
+  - F2KEY1
+  - Door4
+  - F2KEY2
+  - Door5
+  - Door6
+  - F2KEY3
+  - M2Key1
+  - M2Key2
+  - M2Key3
+  - M2Key4
+  - M2Key5
+  - M2Key6
+  - Boss
+  - Obstacle
+  - DoorM2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - whatIsGround
+  - Target
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
