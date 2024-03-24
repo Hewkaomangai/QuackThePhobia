@@ -4,3 +4,4 @@
 # 2113211318 นายชนิสร บุษบาธาร
 # 2113211441 นายนราวิชญ์ ทองทวี
 # 2113212415 นายวีรภัทร มากกุญชร
+ไฟล์ใน \QuackThePhobia\Final Project\Library\PackageCache\com.unity.burst@1.8.12\.Runtime ขออนุญาติ Compress เป็นซิบเนื่องจากขนาดใหญ่เกินจนอัพโหลดขึ้น Github ไม่ได้ครับ
